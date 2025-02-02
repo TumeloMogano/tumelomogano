@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tumelo</h1>
-<h3 align="center">Aspiring Software Engineer | Passionate about Web & Backend Development</h3>
+<h3 align="center">Graduate / Junior Software Engineer | Passionate about Web & Backend Software Development</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tumelomogano&theme=dark" alt="GitHub Streak"/>
