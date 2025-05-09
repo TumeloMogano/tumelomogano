@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tumelo</h1>
 <h3 align="center">Graduate Software Engineer | Passionate about Web & Backend Software Development</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tumelomogano&theme=dark" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 🚀 About Me
